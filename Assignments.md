@@ -14,7 +14,7 @@
 > Personal Portfolio Project
 >  https://github.com/Dharsinijayaprakash/MyProtfolio
 > - Kindly submit the GitHub Repo URL
->  dharsinijayaprakash.vercel.app
+>  https://clickifybooth.vercel.app/
 > - Kindly submit the Vercel Deployment URL
 >  https://github.com/Dharsinijayaprakash/MyProtfolio/blob/main/README.md
 > - Kindly submit the GitHub Pages (Documentation) URL
