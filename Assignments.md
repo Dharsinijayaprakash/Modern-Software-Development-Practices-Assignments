@@ -14,7 +14,7 @@
 > Personal Portfolio Project
 >  https://github.com/Dharsinijayaprakash/MyProtfolio
 > - Kindly submit the GitHub Repo URL
->  https://clickifybooth.vercel.app/
+>  https://dharsinijayaprakash.vercel.app/
 > - Kindly submit the Vercel Deployment URL
 >  https://github.com/Dharsinijayaprakash/MyProtfolio/blob/main/README.md
 > - Kindly submit the GitHub Pages (Documentation) URL
@@ -23,7 +23,7 @@
 > Team Project: AI Full Stack Application
 >  https://github.com/Dharsinijayaprakash/clickify-website
 > - Kindly submit the GitHub Repo URL
->  clickifybooth.vercel.app
+>   https://clickifybooth.vercel.app/
 > - Kindly submit the Live Application URL (Domain)
 >  https://github.com/Dharsinijayaprakash/clickify-website/blob/main/documentation.md
 > - Kindly submit the GitHub Pages (Documentation) URL
